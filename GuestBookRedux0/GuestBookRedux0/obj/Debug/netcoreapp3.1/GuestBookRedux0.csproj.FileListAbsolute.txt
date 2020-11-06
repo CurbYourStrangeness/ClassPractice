@@ -1,0 +1,16 @@
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestBookRedux0.exe
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestBookRedux0.deps.json
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestBookRedux0.runtimeconfig.json
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestBookRedux0.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestBookRedux0.dll
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestBookRedux0.pdb
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestModel.dll
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\bin\Debug\netcoreapp3.1\GuestModel.pdb
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.AssemblyInfo.cs
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.csproj.CopyComplete
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.dll
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.pdb
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestBookRedux0\obj\Debug\netcoreapp3.1\GuestBookRedux0.genruntimeconfig.cache

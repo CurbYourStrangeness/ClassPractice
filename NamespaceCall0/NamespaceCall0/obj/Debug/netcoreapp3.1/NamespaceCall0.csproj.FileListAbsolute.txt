@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\bin\Debug\netcoreapp3.1\NamespaceCall0.exe
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\bin\Debug\netcoreapp3.1\NamespaceCall0.deps.json
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\bin\Debug\netcoreapp3.1\NamespaceCall0.runtimeconfig.json
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\bin\Debug\netcoreapp3.1\NamespaceCall0.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\bin\Debug\netcoreapp3.1\NamespaceCall0.dll
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\bin\Debug\netcoreapp3.1\NamespaceCall0.pdb
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.AssemblyInfo.cs
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.dll
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.pdb
+C:\Users\evolu\source\repos\Class Practice\NamespaceCall0\NamespaceCall0\obj\Debug\netcoreapp3.1\NamespaceCall0.genruntimeconfig.cache

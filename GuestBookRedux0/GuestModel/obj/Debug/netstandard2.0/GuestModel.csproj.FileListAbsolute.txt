@@ -1,0 +1,9 @@
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\bin\Debug\netstandard2.0\GuestModel.deps.json
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\bin\Debug\netstandard2.0\GuestModel.dll
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\bin\Debug\netstandard2.0\GuestModel.pdb
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\obj\Debug\netstandard2.0\GuestModel.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\obj\Debug\netstandard2.0\GuestModel.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\obj\Debug\netstandard2.0\GuestModel.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\obj\Debug\netstandard2.0\GuestModel.AssemblyInfo.cs
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\obj\Debug\netstandard2.0\GuestModel.dll
+C:\Users\evolu\source\repos\Class Practice\GuestBookRedux0\GuestModel\obj\Debug\netstandard2.0\GuestModel.pdb

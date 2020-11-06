@@ -1,0 +1,4 @@
+C:\Users\evolu\source\repos\Class Practice\ClassConceptExpansion0\ClassConceptExpansion0\obj\Debug\netcoreapp3.1\ClassConceptExpansion0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Class Practice\ClassConceptExpansion0\ClassConceptExpansion0\obj\Debug\netcoreapp3.1\ClassConceptExpansion0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Class Practice\ClassConceptExpansion0\ClassConceptExpansion0\obj\Debug\netcoreapp3.1\ClassConceptExpansion0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\Class Practice\ClassConceptExpansion0\ClassConceptExpansion0\obj\Debug\netcoreapp3.1\ClassConceptExpansion0.AssemblyInfo.cs

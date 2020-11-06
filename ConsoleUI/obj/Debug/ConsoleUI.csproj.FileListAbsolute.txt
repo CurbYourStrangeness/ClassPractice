@@ -1,0 +1,20 @@
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\me\source\repos\ClassLibraryDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\evolu\source\repos\Class Practice\ConsoleUI\obj\Debug\ConsoleUI.pdb

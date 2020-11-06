@@ -1,0 +1,12 @@
+C:\Users\me\source\repos\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\me\source\repos\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\me\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\me\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\me\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\evolu\source\repos\Class Practice\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\evolu\source\repos\Class Practice\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\evolu\source\repos\Class Practice\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Class Practice\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Class Practice\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\evolu\source\repos\Class Practice\DemoLibrary\obj\Debug\DemoLibrary.pdb
